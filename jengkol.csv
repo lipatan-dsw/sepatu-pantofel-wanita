@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Sepatu Panrofel Wanita - ED 9094 Murah,sepatu-panrofel-wanita-ed-9094,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Sepatu Formal / Pantofel / Kerja Wanita - ED 9103 Murah,sepatu-formal-pantofel-kerja-wanita-ed-9103,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Sepatu Panrofel Wanita - ED 9094 Murah,sepatu-panrofel-wanita-ed-9094,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,8 +47,18 @@ Jual Sepatu Panrofel Wanita - ED 9094 Murah,sepatu-panrofel-wanita-ed-9094,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Panrofel Wanita - ED 9094 dengan bahan LEATHER ini dijamin awet.<br/>Kode : ED 9094<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 1.1 kg<br/>Sol : TPR<br/>Heels : <br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - ED 9103 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : ED 9103<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -61,8 +72,8 @@ Jual Sepatu Panrofel Wanita - ED 9094 Murah,sepatu-panrofel-wanita-ed-9094,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/184-ed-9094.jpg,Sepatu Panrofel Wanita - ED 9094,Rp 178.900,ED 9094,Baru
-Jual Sepatu Formal Wanita - DM 114 Murah,sepatu-formal-wanita-dm-114,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/120-ed-9103.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9103-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9103-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9103-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9103-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9103-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - ED 9103,Rp 181.900,Rp 212.900,Rp 31.000,ED 9103,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - HT 1018 Murah,sepatu-formal-pantofel-kerja-wanita-ht-1018,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +98,7 @@ Jual Sepatu Formal Wanita - DM 114 Murah,sepatu-formal-wanita-dm-114,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,8 +121,18 @@ Jual Sepatu Formal Wanita - DM 114 Murah,sepatu-formal-wanita-dm-114,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - DM 114 dengan bahan LEATHER ini dijamin awet.<br/>Kode : DM 114<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : TPR<br/>Heels : 4<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - HT 1018 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : HT 1018<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR, 5 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -124,8 +146,8 @@ Jual Sepatu Formal Wanita - DM 114 Murah,sepatu-formal-wanita-dm-114,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/200-dm-114.jpg,Sepatu Formal Wanita - DM 114,Rp 148.900,DM 114,Baru
-Jual Sepatu Formal Wanita - ED 9097 Murah,sepatu-formal-wanita-ed-9097,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/121-ht-1018.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ht-1018-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ht-1018-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ht-1018-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ht-1018-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ht-1018-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - HT 1018,Rp 150.400,Rp 175.900,Rp 25.500,HT 1018,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - ED 9106 Murah,sepatu-formal-pantofel-kerja-wanita-ed-9106,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +172,7 @@ Jual Sepatu Formal Wanita - ED 9097 Murah,sepatu-formal-wanita-ed-9097,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,8 +195,18 @@ Jual Sepatu Formal Wanita - ED 9097 Murah,sepatu-formal-wanita-ed-9097,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ED 9097 dengan bahan LEATHER ini dijamin awet.<br/>Kode : ED 9097<br/>Warna : MARUN<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : TPR<br/>Heels : 3<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - ED 9106 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : ED 9106<br/>Warna : COKLAT<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : VIU, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -187,8 +220,8 @@ Jual Sepatu Formal Wanita - ED 9097 Murah,sepatu-formal-wanita-ed-9097,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna MARUN",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/201-ed-9097.jpg,Sepatu Formal Wanita - ED 9097,Rp 169.900,ED 9097,Baru
-Jual Sepatu Formal Wanita - ND 605 Murah,sepatu-formal-wanita-nd-605,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/122-ed-9106.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9106-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9106-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9106-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9106-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ed-9106-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - ED 9106,Rp 207.400,Rp 242.900,Rp 35.500,ED 9106,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - HA 060 Murah,sepatu-formal-pantofel-kerja-wanita-ha-060,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +246,7 @@ Jual Sepatu Formal Wanita - ND 605 Murah,sepatu-formal-wanita-nd-605,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,8 +269,18 @@ Jual Sepatu Formal Wanita - ND 605 Murah,sepatu-formal-wanita-nd-605,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ND 605 dengan bahan LEATHER ini dijamin awet.<br/>Kode : ND 605<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 5<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - HA 060 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : HA 060<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 41<br/>Berat : 1 kg<br/>Info Lainnya = SOL : FIBER, 4 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -250,8 +294,8 @@ Jual Sepatu Formal Wanita - ND 605 Murah,sepatu-formal-wanita-nd-605,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/202-nd-605.jpg,Sepatu Formal Wanita - ND 605,Rp 106.900,ND 605,Baru
-Jual Sepatu Formal Wanita - US 036 Murah,sepatu-formal-wanita-us-036,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/123-ha-060.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-060-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-060-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-060-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-060-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-060-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - HA 060,Rp 139.900,Rp 163.900,Rp 24.000,HA 060,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - US 036 Murah,sepatu-formal-pantofel-kerja-wanita-us-036,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +320,7 @@ Jual Sepatu Formal Wanita - US 036 Murah,sepatu-formal-wanita-us-036,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,8 +343,18 @@ Jual Sepatu Formal Wanita - US 036 Murah,sepatu-formal-wanita-us-036,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - US 036 dengan bahan LEATHER ini dijamin awet.<br/>Kode : US 036<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : TPR<br/>Heels : 5<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - US 036 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : US 036<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR, 5 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -313,8 +368,8 @@ Jual Sepatu Formal Wanita - US 036 Murah,sepatu-formal-wanita-us-036,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/203-us-036.jpg,Sepatu Formal Wanita - US 036,Rp 136.900,US 036,Baru
-Jual Sepatu Formal Wanita - ND 013 Murah,sepatu-formal-wanita-nd-013,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/124-us-036.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-036-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-036-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-036-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-036-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-036-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - US 036,Rp 136.900,Rp 160.900,Rp 24.000,US 036,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - US 025 Murah,sepatu-formal-pantofel-kerja-wanita-us-025,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -339,6 +394,7 @@ Jual Sepatu Formal Wanita - ND 013 Murah,sepatu-formal-wanita-nd-013,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -361,8 +417,18 @@ Jual Sepatu Formal Wanita - ND 013 Murah,sepatu-formal-wanita-nd-013,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ND 013 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : ND 013<br/>Warna : HITAM<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 5<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - US 025 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : US 025<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR, 5 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -376,8 +442,8 @@ Jual Sepatu Formal Wanita - ND 013 Murah,sepatu-formal-wanita-nd-013,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/204-nd-013.jpg,Sepatu Formal Wanita - ND 013,Rp 106.900,ND 013,Baru
-Jual Sepatu Formal Wanita - SM 278 Murah,sepatu-formal-wanita-sm-278,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/125-us-025.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-025-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-025-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-025-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-025-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-025-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - US 025,Rp 175.900,Rp 205.900,Rp 30.000,US 025,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - HA 094 Murah,sepatu-formal-pantofel-kerja-wanita-ha-094,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -402,6 +468,7 @@ Jual Sepatu Formal Wanita - SM 278 Murah,sepatu-formal-wanita-sm-278,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -424,8 +491,18 @@ Jual Sepatu Formal Wanita - SM 278 Murah,sepatu-formal-wanita-sm-278,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SM 278 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : SM 278<br/>Warna : COKLAT<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 5<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - HA 094 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : HA 094<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 41<br/>Berat : 1 kg<br/>Info Lainnya = SOL : FIBER, 5 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -439,8 +516,8 @@ Jual Sepatu Formal Wanita - SM 278 Murah,sepatu-formal-wanita-sm-278,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 40, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/205-sm-278.jpg,Sepatu Formal Wanita - SM 278,Rp 114.400,SM 278,Baru
-Jual Sepatu Formal Wanita - SM 294 Murah,sepatu-formal-wanita-sm-294,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/126-ha-094.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-094-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-094-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-094-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-094-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ha-094-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - HA 094,Rp 144.400,Rp 168.900,Rp 24.500,HA 094,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - DM 114 Murah,sepatu-formal-pantofel-kerja-wanita-dm-114,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -465,6 +542,7 @@ Jual Sepatu Formal Wanita - SM 294 Murah,sepatu-formal-wanita-sm-294,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -487,8 +565,18 @@ Jual Sepatu Formal Wanita - SM 294 Murah,sepatu-formal-wanita-sm-294,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SM 294 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : SM 294<br/>Warna : HITAM<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 5<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - DM 114 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : DM 114<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR, 4 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -502,8 +590,8 @@ Jual Sepatu Formal Wanita - SM 294 Murah,sepatu-formal-wanita-sm-294,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/206-sm-294.jpg,Sepatu Formal Wanita - SM 294,Rp 114.400,SM 294,Baru
-Jual Sepatu Formal Wanita - SM 271 Murah,sepatu-formal-wanita-sm-271,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/127-dm-114.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/dm-114-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/dm-114-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/dm-114-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/dm-114-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/dm-114-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - DM 114,Rp 148.900,Rp 174.900,Rp 26.000,DM 114,Baru
+Jual Sepatu Formal / Pantofel / Kerja Wanita - US 020 Murah,sepatu-formal-pantofel-kerja-wanita-us-020,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -528,6 +616,7 @@ Jual Sepatu Formal Wanita - SM 271 Murah,sepatu-formal-wanita-sm-271,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -550,8 +639,18 @@ Jual Sepatu Formal Wanita - SM 271 Murah,sepatu-formal-wanita-sm-271,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SM 271 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : SM 271<br/>Warna : HITAM<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 5<br>
+         <p>Sepatu Formal / Pantofel / Kerja Wanita - US 020 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : US 020<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -565,8 +664,8 @@ Jual Sepatu Formal Wanita - SM 271 Murah,sepatu-formal-wanita-sm-271,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/207-sm-271.jpg,Sepatu Formal Wanita - SM 271,Rp 114.400,SM 271,Baru
-Jual Sepatu Formal Wanita - SM 288 Murah,sepatu-formal-wanita-sm-288,"
+     </div><!--/category-tab-->",2017-10-16,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/128-us-020.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-020-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-020-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-020-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-020-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/us-020-e.jpg,Sepatu Formal / Pantofel / Kerja Wanita - US 020,Rp 182.900,Rp 213.900,Rp 31.000,US 020,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RUU 1732 Murah,sepatu-formal-kerja-kantor-wanita-ruu-1732,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -591,6 +690,7 @@ Jual Sepatu Formal Wanita - SM 288 Murah,sepatu-formal-wanita-sm-288,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -613,8 +713,18 @@ Jual Sepatu Formal Wanita - SM 288 Murah,sepatu-formal-wanita-sm-288,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SM 288 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : SM 288<br/>Warna : HITAM<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 3<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RUU 1732 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : RUU 1732<br/>Warna : PUTIH<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : FIBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -628,8 +738,8 @@ Jual Sepatu Formal Wanita - SM 288 Murah,sepatu-formal-wanita-sm-288,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/208-sm-288.jpg,Sepatu Formal Wanita - SM 288,Rp 114.400,SM 288,Baru
-Jual Sepatu Formal Wanita - SM 290 Murah,sepatu-formal-wanita-sm-290,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/275-ruu-1732.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1732-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1732-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1732-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1732-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1732-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RUU 1732,Rp 138.400,Rp 161.900,Rp 23.500,RUU 1732,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RUU 1734 Murah,sepatu-formal-kerja-kantor-wanita-ruu-1734,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -654,6 +764,7 @@ Jual Sepatu Formal Wanita - SM 290 Murah,sepatu-formal-wanita-sm-290,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -676,8 +787,18 @@ Jual Sepatu Formal Wanita - SM 290 Murah,sepatu-formal-wanita-sm-290,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - SM 290 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : SM 290<br/>Warna : COKLAT<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 3<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RUU 1734 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan SINTETIS.<br/>Kode : RUU 1734<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : FIBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -691,8 +812,8 @@ Jual Sepatu Formal Wanita - SM 290 Murah,sepatu-formal-wanita-sm-290,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 40, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/209-sm-290.jpg,Sepatu Formal Wanita - SM 290,Rp 114.400,SM 290,Baru
-Jual Sepatu Formal Wanita - ND 007 Murah,sepatu-formal-wanita-nd-007,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan SINTETIS, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/276-ruu-1734.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1734-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1734-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1734-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1734-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ruu-1734-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RUU 1734,Rp 132.900,Rp 155.900,Rp 23.000,RUU 1734,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RUP 044 Murah,sepatu-formal-kerja-kantor-wanita-rup-044,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -717,6 +838,7 @@ Jual Sepatu Formal Wanita - ND 007 Murah,sepatu-formal-wanita-nd-007,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -739,8 +861,18 @@ Jual Sepatu Formal Wanita - ND 007 Murah,sepatu-formal-wanita-nd-007,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ND 007 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : ND 007<br/>Warna : HITAM<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 7<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RUP 044 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : RUP 044<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : TPR, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -754,8 +886,8 @@ Jual Sepatu Formal Wanita - ND 007 Murah,sepatu-formal-wanita-nd-007,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/210-nd-007.jpg,Sepatu Formal Wanita - ND 007,Rp 106.900,ND 007,Baru
-Jual Sepatu Formal Wanita - HA 060 Murah,sepatu-formal-wanita-ha-060,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/277-rup-044.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-044-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-044-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-044-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-044-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-044-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RUP 044,Rp 132.900,Rp 155.900,Rp 23.000,RUP 044,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RUP 046 Murah,sepatu-formal-kerja-kantor-wanita-rup-046,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -780,6 +912,7 @@ Jual Sepatu Formal Wanita - HA 060 Murah,sepatu-formal-wanita-ha-060,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -802,8 +935,18 @@ Jual Sepatu Formal Wanita - HA 060 Murah,sepatu-formal-wanita-ha-060,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - HA 060 dengan bahan LEATHER ini dijamin awet.<br/>Kode : HA 060<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 4<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RUP 046 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : RUP 046<br/>Warna : COKLAT<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : TPR, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -817,8 +960,8 @@ Jual Sepatu Formal Wanita - HA 060 Murah,sepatu-formal-wanita-ha-060,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/211-ha-060.jpg,Sepatu Formal Wanita - HA 060,Rp 139.900,HA 060,Baru
-Jual Sepatu Formal Wanita - ED 9101 Murah,sepatu-formal-wanita-ed-9101,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/278-rup-046.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-046-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-046-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-046-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-046-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-046-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RUP 046,Rp 176.900,Rp 206.900,Rp 30.000,RUP 046,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RUP 041 Murah,sepatu-formal-kerja-kantor-wanita-rup-041,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -843,6 +986,7 @@ Jual Sepatu Formal Wanita - ED 9101 Murah,sepatu-formal-wanita-ed-9101,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -865,8 +1009,18 @@ Jual Sepatu Formal Wanita - ED 9101 Murah,sepatu-formal-wanita-ed-9101,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ED 9101 dengan bahan LEATHER ini dijamin awet.<br/>Kode : ED 9101<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : TPR<br/>Heels : 4<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RUP 041 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : RUP 041<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : TPR, 5 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -880,8 +1034,8 @@ Jual Sepatu Formal Wanita - ED 9101 Murah,sepatu-formal-wanita-ed-9101,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/212-ed-9101.jpg,Sepatu Formal Wanita - ED 9101,Rp 169.900,ED 9101,Baru
-Jual Sepatu Formal Wanita - ED 9098 Murah,sepatu-formal-wanita-ed-9098,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/279-rup-041.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-041-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-041-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-041-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-041-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-041-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RUP 041,Rp 165.400,Rp 193.900,Rp 28.500,RUP 041,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RHA 016 Murah,sepatu-formal-kerja-kantor-wanita-rha-016,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -906,6 +1060,7 @@ Jual Sepatu Formal Wanita - ED 9098 Murah,sepatu-formal-wanita-ed-9098,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -928,8 +1083,18 @@ Jual Sepatu Formal Wanita - ED 9098 Murah,sepatu-formal-wanita-ed-9098,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ED 9098 dengan bahan LEATHER ini dijamin awet.<br/>Kode : ED 9098<br/>Warna : HITAM<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 7<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RHA 016 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : RHA 016<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : FIBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -943,8 +1108,8 @@ Jual Sepatu Formal Wanita - ED 9098 Murah,sepatu-formal-wanita-ed-9098,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/213-ed-9098.jpg,Sepatu Formal Wanita - ED 9098,Rp 181.900,ED 9098,Baru
-Jual Sepatu Formal Wanita - ND 008 Murah,sepatu-formal-wanita-nd-008,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/280-rha-016.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rha-016-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rha-016-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rha-016-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rha-016-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rha-016-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RHA 016,Rp 135.400,Rp 158.900,Rp 23.500,RHA 016,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RUP 038 Murah,sepatu-formal-kerja-kantor-wanita-rup-038,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -969,6 +1134,7 @@ Jual Sepatu Formal Wanita - ND 008 Murah,sepatu-formal-wanita-nd-008,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -991,8 +1157,18 @@ Jual Sepatu Formal Wanita - ND 008 Murah,sepatu-formal-wanita-nd-008,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - ND 008 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : ND 008<br/>Warna : HITAM<br/>Bahan : SYNTHETIC<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : FIBER<br/>Heels : 5<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RUP 038 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan KULIT.<br/>Kode : RUP 038<br/>Warna : MARUN<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : TPR, 2 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1006,8 +1182,8 @@ Jual Sepatu Formal Wanita - ND 008 Murah,sepatu-formal-wanita-nd-008,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan SYNTHETIC, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/214-nd-008.jpg,Sepatu Formal Wanita - ND 008,Rp 106.900,ND 008,Baru
-Jual Sepatu Formal Wanita - US 031 Murah,sepatu-formal-wanita-us-031,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/281-rup-038.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-038-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-038-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-038-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-038-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rup-038-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RUP 038,Rp 128.400,Rp 150.900,Rp 22.500,RUP 038,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RSP 234 Murah,sepatu-formal-kerja-kantor-wanita-rsp-234,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1032,6 +1208,7 @@ Jual Sepatu Formal Wanita - US 031 Murah,sepatu-formal-wanita-us-031,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1054,8 +1231,18 @@ Jual Sepatu Formal Wanita - US 031 Murah,sepatu-formal-wanita-us-031,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - US 031 dengan bahan LEATHER ini dijamin awet.<br/>Kode : US 031<br/>Warna : COKLAT<br/>Bahan : LEATHER<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : TPR<br/>Heels : 8<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RSP 234 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan SINTETIS.<br/>Kode : RSP 234<br/>Warna : COKLAT<br/>Bahan : SINTETIS<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : FIBER, 5 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1069,8 +1256,8 @@ Jual Sepatu Formal Wanita - US 031 Murah,sepatu-formal-wanita-us-031,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,sepatu-pantofel-wanita,catenzo,sepatu-pantofel-wanita,catenzo,"Sepatu Pantofel Wanita Bahan LEATHER, Ukuran 36 - 40, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/215-us-031.jpg,Sepatu Formal Wanita - US 031,Rp 130.900,US 031,Baru
-Jual Sepatu Formal Wanita - RED 3877 Murah,sepatu-formal-wanita-red-3877,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan SINTETIS, Ukuran 36 - 40, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/282-rsp-234.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsp-234-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsp-234-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsp-234-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsp-234-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsp-234-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RSP 234,Rp 115.400,Rp 135.900,Rp 20.500,RSP 234,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RBU 7006 Murah,sepatu-formal-kerja-kantor-wanita-rbu-7006,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1095,6 +1282,7 @@ Jual Sepatu Formal Wanita - RED 3877 Murah,sepatu-formal-wanita-red-3877,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1117,8 +1305,18 @@ Jual Sepatu Formal Wanita - RED 3877 Murah,sepatu-formal-wanita-red-3877,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Formal Wanita - RED 3877 dengan bahan KULIT ini dijamin awet.<br/>Kode : RED 3877<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 1.1 kg<br/>Sol : SOL TPR<br/>Heels : 3CM<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RBU 7006 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan SINTETIS.<br/>Kode : RBU 7006<br/>Warna : CREAM KOMBINASI<br/>Bahan : SINTETIS<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : FIBER, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1132,8 +1330,8 @@ Jual Sepatu Formal Wanita - RED 3877 Murah,sepatu-formal-wanita-red-3877,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/322-red-3877.jpg,Sepatu Formal Wanita - RED 3877,Rp 173.400,RED 3877,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RHA 017 Murah,sepatu-kerja-formal-pantofel-wanita-rha-017,"
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan SINTETIS, Ukuran 36 - 40, Warna CREAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/283-rbu-7006.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7006-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7006-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7006-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7006-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7006-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RBU 7006,Rp 107.900,Rp 126.900,Rp 19.000,RBU 7006,Baru
+Jual Sepatu Formal / Kerja / Kantor Wanita - RBU 7004 Murah,sepatu-formal-kerja-kantor-wanita-rbu-7004,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1158,6 +1356,7 @@ Jual Sepatu Kerja  Formal / Pantofel Wanita - RHA 017 Murah,sepatu-kerja-formal-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1180,8 +1379,18 @@ Jual Sepatu Kerja  Formal / Pantofel Wanita - RHA 017 Murah,sepatu-kerja-formal-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RHA 017 dengan bahan KULIT ini dijamin awet.<br/>Kode : RHA 017<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : SOL FIBER<br/>Heels : 5CM<br>
+         <p>Sepatu Formal / Kerja / Kantor Wanita - RBU 7004 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Pantofel Wanita ini terbuat dari bahan SINTETIS.<br/>Kode : RBU 7004<br/>Warna : CREAM KOMBINASI<br/>Bahan : SINTETIS<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : FIBER, 7 CM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1195,508 +1404,4 @@ Jual Sepatu Kerja  Formal / Pantofel Wanita - RHA 017 Murah,sepatu-kerja-formal-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/398-rha-017.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RHA 017,Rp 135.400,RHA 017,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RHA 016 Murah,sepatu-kerja-formal-pantofel-wanita-rha-016,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RHA 016 dengan bahan KULIT ini dijamin awet.<br/>Kode : RHA 016<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : SOL FIBER<br/>Heels : <br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 41, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/399-rha-016.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RHA 016,Rp 135.400,RHA 016,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RED 3876 Murah,sepatu-kerja-formal-pantofel-wanita-red-3876,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RED 3876 dengan bahan KULIT ini dijamin awet.<br/>Kode : RED 3876<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : SOL TPR<br/>Heels : 2CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/400-red-3876.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RED 3876,Rp 164.400,RED 3876,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RSP 285 Murah,sepatu-kerja-formal-pantofel-wanita-rsp-285,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RSP 285 dengan bahan KULIT ini dijamin awet.<br/>Kode : RSP 285<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : SOL FIBER<br/>Heels : 5CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/401-rsp-285.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RSP 285,Rp 113.900,RSP 285,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RUP 038 Murah,sepatu-kerja-formal-pantofel-wanita-rup-038,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RUP 038 dengan bahan KULIT ini dijamin awet.<br/>Kode : RUP 038<br/>Warna : MARUN<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : SOL TPR<br/>Heels : 2CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/402-rup-038.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RUP 038,Rp 128.400,RUP 038,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RUP 041 Murah,sepatu-kerja-formal-pantofel-wanita-rup-041,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RUP 041 dengan bahan KULIT ini dijamin awet.<br/>Kode : RUP 041<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : SOL TPR<br/>Heels : 5CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/403-rup-041.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RUP 041,Rp 165.400,RUP 041,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RBU 6315 Murah,sepatu-kerja-formal-pantofel-wanita-rbu-6315,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RBU 6315 dengan bahan KULIT ini dijamin awet.<br/>Kode : RBU 6315<br/>Warna : CREAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 41<br/>Berat : 0.9 kg<br/>Sol : SOL FIBER<br/>Heels : 7CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 41, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/404-rbu-6315.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RBU 6315,Rp 107.900,RBU 6315,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RUP 036 Murah,sepatu-kerja-formal-pantofel-wanita-rup-036,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RUP 036 dengan bahan KULIT ini dijamin awet.<br/>Kode : RUP 036<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : SOL TPR<br/>Heels : 3CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/405-rup-036.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RUP 036,Rp 132.900,RUP 036,Baru
-Jual Sepatu Kerja  Formal / Pantofel Wanita - RED 3878 Murah,sepatu-kerja-formal-pantofel-wanita-red-3878,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Sepatu Pantofel Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Kerja  Formal / Pantofel Wanita - RED 3878 dengan bahan KULIT ini dijamin awet.<br/>Kode : RED 3878<br/>Warna : MARUN<br/>Bahan : KULIT<br/>Ukuran : 36 - 40<br/>Berat : 0.9 kg<br/>Sol : SOL FIBER<br/>Heels : 7CM<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan KULIT, Ukuran 36 - 40, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/406-red-3878.jpg,Sepatu Kerja  Formal / Pantofel Wanita - RED 3878,Rp 173.400,RED 3878,Baru
+     </div><!--/category-tab-->",2017-10-17,html,sepatu-pantofel-wanita,raindoz,sepatu-pantofel-wanita,raindoz,"Sepatu Pantofel Wanita Bahan SINTETIS, Ukuran 36 - 40, Warna CREAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/284-rbu-7004.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7004-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7004-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7004-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7004-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rbu-7004-e.jpg,Sepatu Formal / Kerja / Kantor Wanita - RBU 7004,Rp 107.900,Rp 126.900,Rp 19.000,RBU 7004,Baru
